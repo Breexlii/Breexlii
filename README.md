@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Sarah</h1>
+<h1 align="center">Hi 👋, I'm Vivienne</h1>
 <h3 align="center">A passionate frontend developer based in Dubai</h3>
 
 - 🔭 I’m currently working on **my portfolio, touring landing page**
 
 - 🌱 I’m currently learning **react, node.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/i45sarah](https://github.com/i45sarah)
+- 👨‍💻 All of my projects are available at [https://github.com/viviyannn](https://github.com/viviyannn)
 
 - 📫 How to reach me **i45sarahbusiness@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/i45sarah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="i45sarah" height="30" width="40" /></a>
-<a href="https://twitter.com/i45_sarah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i45_sarah" height="30" width="40" /></a>
-<a href="https://instagram.com/i45.sarah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i45.sarah" height="30" width="40" /></a>
+<a href="[https://codepen.io/viviyannn](https://codepen.io/viviyannn)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="i45sarah" height="30" width="40" /></a>
+<a href="https://twitter.com/v1viyannn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i45_sarah" height="30" width="40" /></a>
+<a href="https://instagram.com/ivy.yy_5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i45.sarah" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

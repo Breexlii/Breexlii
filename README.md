@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Vivienne</h1>
+<h1 align="center">Hi 👋, I'm Bree</h1>
 <h3 align="center">A passionate frontend developer based in Dubai</h3>
 
 - 🔭 I’m currently working on **my portfolio, touring landing page**
 
 - 🌱 I’m currently learning **react, node.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/viviyannn](https://github.com/viviyannn)
+- 👨‍💻 All of my projects are available at [https://github.com/Breexlii](https://github.com/Breexlii)
 
 - 📫 How to reach me **s.diodev@gmail.com**
 
